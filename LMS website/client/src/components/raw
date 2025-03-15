@@ -1,0 +1,2 @@
+const filteredCourse = course.filter((course) => course.courseTitle.toLowerCase().includes("python"))
+  console.log(filteredCourse)
