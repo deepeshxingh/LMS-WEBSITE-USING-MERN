@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero";
-import CourseCard from "@/components/courseCard";
+import CourseCard from "@/components/CourseCard";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 // import Testimonials from "./TestimonialList";
