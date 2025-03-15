@@ -1,4 +1,4 @@
-import CourseCard from "@/components/courseCard";
+import CourseCard from "@/components/CourseCard";
 import { setCourse } from "@/redux/courseSlice";
 import axios from "axios";
 import { Search } from "lucide-react";
